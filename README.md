@@ -12,9 +12,7 @@ This module is second of two modules dedicated to learning Pandas and Jupyter No
 ### Addendum/ Sources & References
 Module 5 Activities. Some of this code was created by following along with the course instructor as he demonstrated how to complete the homework by copying and pasting code from course examples and activites.
 
-Resources included: reviewing and going through the class activities and homework, before class tutoring, Xpert Learning Assistant (helpful), some help from ChatGPT 4. I had a tutoring session. 
-
-All these resources were incredibly helpful. 
+Resources included: reviewing and going through the class activities and homework, before class tutoring, Xpert Learning Assistant (helpful), some help from ChatGPT 4. I had a tutoring session which helped me trouble shoot code that was not working and code with unexpected output. I'm glad that AskBSCS is up and running again. All these resources were incredibly helpful. 
 
 ***
 |Carolyn Scheese|carolyn.scheese@utah.edu|U0447985
